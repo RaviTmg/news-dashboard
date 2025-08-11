@@ -1,6 +1,6 @@
 # News Dashboard
 
-[![Tests](https://github.com/tmgravi/news-dashboard/actions/workflows/test.yml/badge.svg)](https://github.com/tmgravi/news-dashboard/actions/workflows/test.yml)
+[![Tests](https://github.com/RaviTmg/news-dashboard/actions/workflows/test.yml/badge.svg)](https://github.com/RaviTmg/news-dashboard/actions/workflows/test.yml)
 
 
 ## Features
